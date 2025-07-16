@@ -2,7 +2,7 @@
 This project demonstrates how to set up and launch a phishing simulation using [Gophish](https://getgophish.com/) and [Mailtrap](https://mailtrap.io/) for safe email testing.
 
 
-# Gophish Phishing Simulation Project
+# Gophish Phishing Simulation Project 
 
 ## Tools Used
 - Gophish (hosted on Railway)
